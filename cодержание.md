@@ -2,12 +2,12 @@
 
 ### Начальные шаги:
 
-1. **[Понимание основ Docker:](https://github.com/HugoTheDeveloper/docker-guide/blob/main/rus-version/1-%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%20Docker/1.1.theory.md)**
+1. **[Понимание основ Docker:](https://github.com/HugoTheDeveloper/docker-guide/blob/main/rus-version/1-%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%20Docker/1.1.%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F.md)**
    - Что такое Docker? Зачем он нужен?
    - Различие между контейнерами и виртуальными машинами.
    - Как Docker работает под капотом.
 
-2. **[Установка Docker:](https://github.com/HugoTheDeveloper/docker-guide/blob/main/rus-version/2-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20Docker/2.1.theory.md)**
+2. **[Установка Docker:](https://github.com/HugoTheDeveloper/docker-guide/blob/main/rus-version/2-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20Docker/2.1.%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F.md)**
    - Установите Docker на свой компьютер, следуя официальным инструкциям для вашей операционной системы.
 
 3. **[Основные команды:](https://github.com/HugoTheDeveloper/docker-guide/tree/main/rus-version/3-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)**
