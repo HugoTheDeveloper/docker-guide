@@ -9,7 +9,7 @@ Its educational material which is aimed to make Docker understandable for everyb
 
 **If you found mistakes in lessons or you have suggestions of proving material, make pull request! Let's do this guide bette!**
 
-**It is currently under development and not all materials are available.**
+**It is currently under development and not all materials could be available.**
 
 ### [Content](https://github.com/HugoTheDeveloper/docker-guide/blob/main/content.md)
 ____
@@ -24,7 +24,7 @@ ____
 
 **Если вы увидели ошибку в уроках или у вас есть предложения по улучшению материала, делайте пул реквесты! Давайте сделаем этот гайд лучше вместе!**
 
-**На данный момент находиться на стадии разработки и доступны не все материалы.**
+**На данный момент находиться на стадии разработки и не все материалы могут быть доступны.**
 
 ### [Содержание](https://github.com/HugoTheDeveloper/docker-guide/blob/main/c%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5.md)
 _____
