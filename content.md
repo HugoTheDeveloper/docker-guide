@@ -2,15 +2,15 @@
 
 ### Initial steps:
 
-1. **Understanding the basics of Docker:**.
+1. **[Understanding the basics of Docker](https://github.com/HugoTheDeveloper/docker-guide/blob/main/eng-version/1%20-%20Understanding%20the%20basics%20of%20Docker/1.1%20theory.md):**.
    - What is Docker? Why it is needed.
    - The difference between containers and virtual machines.
    - How Docker works under the hood.
 
-2. **Installing Docker:**
+2. **[Installing Docker](https://github.com/HugoTheDeveloper/docker-guide/blob/main/eng-version/2%20-%20Installing%20Docker/2.1%20theory.md):**
    - Install Docker on your computer by following the official instructions for your operating system.
 
-3. **Main commands:**
+3. **[Main commands](https://github.com/HugoTheDeveloper/docker-guide/tree/main/eng-version/3%20-%20Basic%20commands):**
    - `docker run`, `docker pull`, `docker build`.
    - `docker ps`, `docker images`, `docker logs`.
    - `docker rm`, `docker rmi`.
@@ -18,7 +18,7 @@
 
 ### Further study of Docker:
 
-4. **Creating your own images:**
+4. **[Creating your own images](https://github.com/HugoTheDeveloper/docker-guide/tree/main/eng-version/4%20-%20Creating%20your%20own%20images):**
    - Using Dockerfile to create custom images.
    - Optimizing Dockerfile.
    - Uploading images to Docker Hub.
