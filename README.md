@@ -14,7 +14,7 @@ Its educational material which is aimed to make Docker understandable for everyb
 ### [Content](https://github.com/HugoTheDeveloper/docker-guide/blob/main/content.md)
 ____
 ## Приветствую!
-## 
+
 Это образовательный материал, который направлен на то,чтобы сделать Докер доступным для всех.
 <br>Давайте учить докер вместе легко!
 <br>Все материалы сгенерированы ChatGPT. Все материалы доступны на русском и английском языке.
