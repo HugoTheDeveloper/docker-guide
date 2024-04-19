@@ -19,22 +19,23 @@ _____
 
 ### Начальные шаги:
 
-1. **Понимание основ Docker:**
+1. **[Понимание основ Docker:](https://github.com/HugoTheDeveloper/docker-guide/blob/main/rus-version/1-%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%20Docker/1.1.theory.md)**
    - Что такое Docker? Зачем он нужен?
    - Различие между контейнерами и виртуальными машинами.
    - Как Docker работает под капотом.
 
-2. **Установка Docker:**
+2. **[Установка Docker:](https://github.com/HugoTheDeveloper/docker-guide/blob/main/rus-version/2-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20Docker/2.1.theory.md)**
    - Установите Docker на свой компьютер, следуя официальным инструкциям для вашей операционной системы.
 
-3. **Основные команды:**
+3. **[Основные команды:](https://github.com/HugoTheDeveloper/docker-guide/tree/main/rus-version/3-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)**
    - `docker run`, `docker pull`, `docker build`.
    - `docker ps`, `docker images`, `docker logs`.
+   - `docker rm`, `docker rmi`
    - Создание, запуск и остановка контейнеров.
 
 ### Дальнейшее изучение Docker:
 
-4. **Создание собственных образов:**
+4. **[Создание собственных образов:](https://github.com/HugoTheDeveloper/docker-guide/tree/main/rus-version/4-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2)**
    - Использование Dockerfile для создания собственных образов.
    - Оптимизация Dockerfile.
    - Загрузка образов в Docker Hub.
